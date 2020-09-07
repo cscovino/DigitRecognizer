@@ -1,2 +1,3 @@
 # DigitRecognizer
-Web App for digit recognizer
+
+Web App for digit recognizer deployed with Heroku
